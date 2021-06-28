@@ -1,0 +1,120 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    display: inline-block;
+    width: 400px;
+    color: white;
+    text-transform: uppercase;
+}
+
+h2{
+    display: inline-block;
+    width: 400px;
+    color: white;
+    text-transform: uppercase;
+}
+
+
+header{
+    background-color: #3949ab;
+    text-align: center;
+    padding: 16px;
+}
+
+.description{
+    background-color: #f06292;
+    color: black;
+    text-align: center;
+    padding: 5px;
+}
+.description p{
+    font-weight: bold;
+}
+
+.main{
+    width: 960px;
+    /*background-color: cadetblue;*/
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.education-info{
+    display:inline-block;
+    width: 68%;
+    vertical-align: top;
+}
+
+.education-img{
+    display:inline-block;
+    width: 30%;
+    margin-top: 20px;
+}
+.education-img img{
+    width: 400px;
+    border-radius: 10%;
+}
+
+.education h3{
+    font-size: 36px;
+    font-weight: 700px;
+}
+
+.experience h3{
+    font-size: 36px;
+    font-weight: 700px;
+}
+
+.experience{
+    margin-top: 70px;
+}
+
+dl dt{
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    margin-top: 36px;
+}
+
+.awards h3{
+    font-size: 36px;
+    font-weight: 700px;
+}
+
+.others h3{
+    font-size: 36px;
+    font-weight: 700px;
+}
+
+.others ul{
+    margin-top: 12px;
+    padding: 0px;
+}
+
+.others ul li{
+    margin-top: 16px;
+}
+
+.social_accounts h3{
+    font-size: 34px;
+    font-weight: 700px;
+}
+
+.social_accounts ul{
+    margin-top: 12px;
+    padding: 0px;
+}
+
+.social_accounts ul li{
+    margin-top: 16px;
+    font-weight: 700px;
+}
+
+.social_accounts a{
+    text-decoration: none;
+    color: black;
+}
